@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+    color: coral;
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Impact;
+    background-color:aquamarine ;
+}
+
+a {
+    color: white;
+
+}
+.more-info {
+    background-color: orangered;
+}
+#home {
+    background-color: green;
+}
